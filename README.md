@@ -17,11 +17,17 @@ This project involves analyzing salary data to derive insights into global compe
 Below are examples of the SQL analysis outputs visualized:
 
 1. ![Query 1](https://github.com/MuhammadGhulamAbbas/Salary-SQL-study-Case/blob/main/Images/Q1.PNG)
+
 2. ![Query 2](https://github.com/MuhammadGhulamAbbas/Salary-SQL-study-Case/blob/main/Images/Q2.PNG)
+
 3. ![Query 3](https://github.com/MuhammadGhulamAbbas/Salary-SQL-study-Case/blob/main/Images/Q3.PNG)
+
 4. ![Query 4](https://github.com/MuhammadGhulamAbbas/Salary-SQL-study-Case/blob/main/Images/Q4.PNG)
+
 5. ![Query 5](https://github.com/MuhammadGhulamAbbas/Salary-SQL-study-Case/blob/main/Images/Q5.PNG)
+
 6. ![Query 6](https://github.com/MuhammadGhulamAbbas/Salary-SQL-study-Case/blob/main/Images/Q6.PNG)
+
 7. ![Query 7](https://github.com/MuhammadGhulamAbbas/Salary-SQL-study-Case/blob/main/Images/Q7.PNG)
 
 ## SQL File
